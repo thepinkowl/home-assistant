@@ -165,7 +165,7 @@ hdate==0.8.8
 holidays==0.9.10
 
 # homeassistant.components.frontend
-home-assistant-frontend==20190717.1
+home-assistant-frontend==20190721.1
 
 # homeassistant.components.homekit_controller
 homekit[IP]==0.14.0
@@ -334,7 +334,7 @@ ring_doorbell==0.2.3
 rxv==0.6.0
 
 # homeassistant.components.simplisafe
-simplisafe-python==4.0.0
+simplisafe-python==4.0.1
 
 # homeassistant.components.sleepiq
 sleepyq==0.7

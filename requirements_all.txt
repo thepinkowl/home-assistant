@@ -402,6 +402,9 @@ dsmr_parser==0.12
 # homeassistant.components.dweet
 dweepy==0.3.0
 
+# homeassistant.components.rainforest_eagle
+eagle200_reader==0.2.1
+
 # homeassistant.components.ebusd
 ebusdpy==0.0.16
 
@@ -508,7 +511,7 @@ gearbest_parser==1.0.7
 geizhals==0.0.9
 
 # homeassistant.components.geniushub
-geniushub-client==0.4.12
+geniushub-client==0.4.15
 
 # homeassistant.components.geo_json_events
 # homeassistant.components.nsw_rural_fire_service_feed
@@ -613,7 +616,7 @@ hole==0.3.0
 holidays==0.9.10
 
 # homeassistant.components.frontend
-home-assistant-frontend==20190717.1
+home-assistant-frontend==20190721.1
 
 # homeassistant.components.zwave
 homeassistant-pyozw==0.1.4
@@ -730,7 +733,7 @@ liveboxplaytv==2.0.2
 lmnotify==0.0.4
 
 # homeassistant.components.google_maps
-locationsharinglib==3.0.11
+locationsharinglib==4.0.2
 
 # homeassistant.components.logi_circle
 logi_circle==0.2.2
@@ -1051,7 +1054,7 @@ pyblackbird==0.5
 # pybluez==0.22
 
 # homeassistant.components.neato
-pybotvac==0.0.13
+pybotvac==0.0.15
 
 # homeassistant.components.nissan_leaf
 pycarwings2==2.8
@@ -1676,7 +1679,7 @@ shodan==1.13.0
 simplepush==1.1.4
 
 # homeassistant.components.simplisafe
-simplisafe-python==4.0.0
+simplisafe-python==4.0.1
 
 # homeassistant.components.sisyphus
 sisyphus-control==2.2
@@ -1711,7 +1714,7 @@ smarthab==0.20
 smhi-pkg==1.0.10
 
 # homeassistant.components.snapcast
-snapcast==2.0.9
+snapcast==2.0.10
 
 # homeassistant.components.socialblade
 socialbladeclient==0.2
@@ -1948,7 +1951,7 @@ zengge==0.2
 zeroconf==0.23.0
 
 # homeassistant.components.zha
-zha-quirks==0.0.18
+zha-quirks==0.0.19
 
 # homeassistant.components.zhong_hong
 zhong_hong_hvac==1.0.9
